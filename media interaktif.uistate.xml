@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout order="0">menu</layout>
+        <layout order="2">quis1</layout>
+        <layout order="3">quis time</layout>
+        <layout order="4">quis time 2</layout>
+        <layout order="5">quis time 3</layout>
+        <layout order="6">quis 2</layout>
+        <layout order="7">quis 3</layout>
+        <layout order="8">materi_1</layout>
+        <layout order="9">materi2_2</layout>
+        <layout order="10">grand final</layout>
+        <layout active="1" order="11">materi3_3</layout>
+        <event-sheet order="1">menu_es</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1" />
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="file-folder/music/" />
+        <folder expanded="1" path="animation-folder/bacground/" />
+        <folder expanded="1" path="animation-folder/bacground2/" />
+        <folder expanded="1" path="animation-folder/bacground3/" />
+        <folder expanded="1" path="animation-folder/karakter/" />
+        <folder expanded="1" path="animation-folder/tomboll/" />
+        <folder expanded="1" path="animation-folder/tomboll2/" />
+        <folder expanded="1" path="animation-folder/tomboll3/" />
+        <folder expanded="1" path="animation-folder/tomboll4/" />
+        <folder expanded="1" path="animation-folder/tombollkiri/" />
+        <folder expanded="1" path="animation-folder/tombolKanan/" />
+        <folder expanded="1" path="animation-folder/musuh/" />
+        <folder expanded="1" path="animation-folder/musuh2/" />
+        <folder expanded="1" path="animation-folder/musuh3/" />
+        <folder expanded="1" path="animation-folder/musuh4/" />
+        <folder expanded="1" path="animation-folder/bintang/" />
+        <folder expanded="1" path="animation-folder/hati/" />
+        <folder expanded="1" path="animation-folder/musuh5/" />
+        <folder expanded="1" path="animation-folder/bacgroundComplet/" />
+        <folder expanded="1" path="animation-folder/baground/" />
+        <folder expanded="1" path="animation-folder/baground2/" />
+        <folder expanded="1" path="animation-folder/loading/" />
+        <folder expanded="1" path="animation-folder/back/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/Sprite2/" />
+        <folder expanded="1" path="animation-folder/Sprite3/" />
+        <folder expanded="1" path="animation-folder/judul/" />
+        <folder expanded="1" path="animation-folder/tombolai/" />
+        <folder expanded="1" path="animation-folder/infogame/" />
+        <folder expanded="1" path="animation-folder/petunjuk/" />
+        <folder expanded="1" path="animation-folder/newGame/" />
+        <folder expanded="1" path="animation-folder/tombolahome/" />
+        <folder expanded="1" path="animation-folder/exit/" />
+        <folder expanded="1" path="animation-folder/tombolahome3/" />
+        <folder expanded="1" path="animation-folder/tombolhome/" />
+        <folder expanded="1" path="animation-folder/tombolahome4/" />
+        <folder expanded="1" path="animation-folder/tombolLanjut2/" />
+        <folder expanded="1" path="animation-folder/background2/" />
+        <folder expanded="1" path="animation-folder/Tanah_lv2/" />
+        <folder expanded="1" path="animation-folder/tanahSolid/" />
+        <folder expanded="1" path="animation-folder/pijakan/" />
+        <folder expanded="1" path="animation-folder/pijakan2/" />
+        <folder expanded="1" path="animation-folder/peti/" />
+        <folder expanded="1" path="animation-folder/pijakan3/" />
+        <folder expanded="1" path="animation-folder/musuh6/" />
+        <folder expanded="1" path="animation-folder/bacgroundGame/" />
+        <folder expanded="1" path="animation-folder/lantaiGame/" />
+        <folder expanded="1" path="animation-folder/bacgroundGame2/" />
+        <folder expanded="1" path="animation-folder/bacgroundGame3/" />
+        <folder expanded="1" path="animation-folder/bacgroundGame4/" />
+        <folder expanded="1" path="animation-folder/bacgroundGame5/" />
+        <folder expanded="1" path="animation-folder/bacgroundMateri/" />
+        <folder expanded="1" path="animation-folder/baground3/" />
+        <folder expanded="1" path="animation-folder/bacgroundMater/" />
+        <folder expanded="1" path="animation-folder/tombolMusik/" />
+        <folder expanded="1" path="animation-folder/materi/" />
+        <folder expanded="1" path="animation-folder/tmblNext/" />
+        <folder expanded="1" path="animation-folder/tmblNext2/" />
+        <folder expanded="1" path="animation-folder/materi2/" />
+        <folder expanded="1" path="animation-folder/tombolLanjut/" />
+        <folder expanded="1" path="animation-folder/nextLevel/" />
+        <folder expanded="1" path="animation-folder/bacground4/" />
+        <folder expanded="1" path="animation-folder/materilv/" />
+        <folder expanded="1" path="animation-folder/bacgroundGame6/" />
+        <folder expanded="1" path="animation-folder/materilv2/" />
+        <folder expanded="1" path="animation-folder/petunjuk2/" />
+        <folder expanded="1" path="animation-folder/profile/" />
+        <folder expanded="1" path="animation-folder/tombolhome2/" />
+        <folder expanded="1" path="animation-folder/profile2/" />
+        <folder expanded="1" path="animation-folder/profile3/" />
+        <folder expanded="1" path="animation-folder/tmbNext/" />
+        <folder expanded="1" path="animation-folder/tmbNext2/" />
+        <folder expanded="1" path="animation-folder/tombolstart/" />
+        <folder expanded="1" path="animation-folder/infoGame2/" />
+        <folder expanded="1" path="animation-folder/Eggs/" />
+        <folder expanded="1" path="animation-folder/bacgroundMater2/" />
+        <folder expanded="1" path="animation-folder/soal/" />
+        <folder expanded="1" path="animation-folder/tombolBenar/" />
+        <folder expanded="1" path="animation-folder/tombolsalah/" />
+        <folder expanded="1" path="animation-folder/peti2/" />
+        <folder expanded="1" path="animation-folder/tombolBenar2/" />
+        <folder expanded="1" path="animation-folder/popupQuis/" />
+        <folder expanded="1" path="animation-folder/gameEdukasi/" />
+        <folder expanded="1" path="animation-folder/quis/" />
+        <folder expanded="1" path="animation-folder/quis2/" />
+        <folder expanded="1" path="animation-folder/back2/" />
+        <folder expanded="1" path="animation-folder/bacgroundComplet2/" />
+        <folder expanded="1" path="animation-folder/bacgroundMater3/" />
+        <folder expanded="1" path="animation-folder/mulai/" />
+        <folder expanded="1" path="animation-folder/bacgroundComplet3/" />
+        <folder expanded="1" path="animation-folder/finis/" />
+        <folder expanded="1" path="animation-folder/levelawal/" />
+        <folder expanded="1" path="animation-folder/level/" />
+        <folder expanded="1" path="animation-folder/level2/" />
+        <folder expanded="1" path="animation-folder/level3/" />
+        <folder expanded="1" path="animation-folder/mousemusuh/" />
+        <folder expanded="1" path="animation-folder/mouse2/" />
+        <folder expanded="1" path="animation-folder/WhatsAppImage20240723At/" />
+        <folder expanded="1" path="animation-folder/WhatsAppImage20240723At2/" />
+        <folder expanded="1" path="animation-folder/1back/" />
+        <folder expanded="1" path="animation-folder/1back2/" />
+        <folder expanded="1" path="animation-folder/musuhh5/" />
+        <folder expanded="1" path="animation-folder/mouse3/" />
+        <folder expanded="1" path="animation-folder/dosen/" />
+        <folder expanded="1" path="animation-folder/braindEdukasi/" />
+        <folder expanded="1" path="animation-folder/tmblUjian/" />
+        <folder expanded="1" path="animation-folder/salah/" />
+        <folder expanded="1" path="animation-folder/materi3/" />
+        <folder expanded="1" path="animation-folder/materi4/" />
+        <folder expanded="1" path="animation-folder/materi5/" />
+        <folder expanded="1" path="animation-folder/infoGamee/" />
+        <folder expanded="1" path="animation-folder/petunjukk/" />
+        <folder expanded="1" path="animation-folder/BACKPOLOS/" />
+        <folder expanded="1" path="animation-folder/quisTime/" />
+        <folder expanded="1" path="animation-folder/tombolLanjut3/" />
+        <folder expanded="1" path="animation-folder/QUISTIME2/" />
+        <folder expanded="1" path="animation-folder/bacgroundMater4/" />
+        <folder expanded="1" path="animation-folder/QUISTIME3/" />
+        <folder expanded="1" path="animation-folder/benar/" />
+    </folders-expanded>
+</c2uistate>
